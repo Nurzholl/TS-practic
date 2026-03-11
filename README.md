@@ -1,4 +1,5 @@
-
+<img width="1223" height="897" alt="image" src="https://github.com/user-attachments/assets/32fea5e5-83e9-45c7-808d-ff201e933d84" />
+<br>
 //1
 enum UserRole {
     Admin = "ADMIN",
